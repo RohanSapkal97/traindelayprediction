@@ -1,0 +1,5 @@
+pandas
+numpy
+sklearn
+
+-e . #It is not package it is to trigger installation packages. 
