@@ -1,5 +1,5 @@
 pandas
 numpy
-sklearn
+scikit-learn
 
--e . #It is not package it is to trigger installation packages. 
+#-e . #It is not package it is to trigger/create packages. 
